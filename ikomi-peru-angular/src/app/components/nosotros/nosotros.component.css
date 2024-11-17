@@ -1,0 +1,25 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 15px;
+}
+
+.card-header {
+  background-color: #6c757d; 
+  color: white; 
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px;
+
+}
+
+.custom-img {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: cover;
+  margin-top: 10px;
+}
+
+  
